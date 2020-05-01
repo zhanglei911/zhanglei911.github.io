@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Slow is fast, less is more."
+title                    : "Lei Zhang"
 title_separator          : "-"
-name                     : &name "Slow is fast."
+name                     : &name "Slow is fast, less is more."
 description              : &description "Ph.D student"
 url                      : https://zhanglei911.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
