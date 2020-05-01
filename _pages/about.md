@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I do research between earthquake engineering and seismology. I simulate seismic waves in multi-scale models based on numerical methods such as the spectral element method using [SPECFEM3D](https://github.com/geodynamics/specfem3d) and the finite-element method using [Abaqus](https://academy.3ds.com/en/software/abaqus-student-edition).
+I do research between earthquake engineering and seismology. I simulate seismic waves in multi-scale models based on numerical methods such as the spectral element method and the finite-element method.
 
 Ground motion simulation
 ======
