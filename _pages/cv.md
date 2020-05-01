@@ -21,14 +21,13 @@ Education
   
 Skills
 ======
-* Seismology computational tool SPECFEM3D
-  * forward simulations 
-  * adjoint simulations
-  * global and regional scales 
+* The seismology computational tool SPECFEM3D
+  * Forward simulations especially for ground motion simulations 
+  * Adjoint simulations for global and regional Green's functions
 * The commercial FEM software Abaqus
-  * dynamic analysis, especially for concrete dams
-  * multi-filed simulation
-  * nonlinear analysis
+  * Dynamic analysis, especially for concrete dams
+  * Multi-filed simulation
+  * Nonlinear analysis
 * Programming languages
   * Fortran for numerical calculation
   * Matlab for signal processing and plotting
