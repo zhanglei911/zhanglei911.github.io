@@ -13,18 +13,14 @@ Education
 ======
 * Bachelor degree in Hydropower Engineering, Hohai University, 2014
 * Ph.D in Hydraulic Engineering, Tsinghua University, 2020 (expected)
+  * Supervisor: Chu-Han Zhang
 
-Work experience
+Visiting experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep. 2017 - Dec. 2018: visiting scholar 
+  * Department of Earth Science, University of California, Santa Barbara
+  * Topic included: Monitoring the Global Large Earthquakes with 3D SEM Green’s Functions
+  * Supervisor: Chen Ji
   
 Skills
 ======
