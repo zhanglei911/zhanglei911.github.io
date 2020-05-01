@@ -11,25 +11,25 @@ redirect_from:
 I do research between earthquake engineering and seismology. I simulate seismic waves in multi-scale models based on numerical methods such as the spectral element method (SEM) and the finite element method (FEM). My research interests can be summed up as follows: 
 
 Rupture process of global large earthquakes
-======
+------
 This is a callabration work with Prof. Chen Ji, Prof. Jinlai Hao and Wenze Deng. I calculate the global 3D Green's function databases based on adjoint simulations using [SPECFEM3D_Globe](https://geodynamics.org/cig/software/specfem3d_globe/). This databased is applied to study the rupture process of large earthquakes in the global scale such as the 2017 Mw8.2 Mexico earthquake, the 2018 Mw 7.9 Alaska earthquake, the 2008 Mw 7.9 Wenchuan earthquake.
 
 Ground motion simulation for engineering purposes
-======
+------
 I simulate the 3D seismic wave propagation using [SPECFEM3D_Catesian](https://github.com/geodynamics/specfem3d). Near site effects are studied quantificationally such as
 * Hanging wall effect
 * Topographic effect
 * Directivity effect
 
 Rupture-to-structure simulation
-======
+------
 To numerically simulating the 3D seismic wave propagation from rupture to structures, a two-step method coupling the spectral element method (SEM) and the finite-element method (FEM) is proposed based on the domain reduction method to simultaneously simulate the seismic wave propagation in large-scale regions and analyze the dynamic behavior of structures in local sites. 
 * In the first step, the seismic wave propagation of the entire area, involving the source, propagation media, and local region of interest, is simulated using the SEM. 
 * In the second step, the dynamic analysis of structure-foundation system with local geological and topographical conditions is implemented using the FEM in a fine mesh based on the results in the first step. 
 * The proposed SEM-FEM procedure can well consider the effects of local geological and topographical conditions on synthesized ground motions and can be applied to the rupture-to-structure simulations in earthquake engineering.
 
 Dynamic analysis of structures
-======
+------
 The large commercial FE software [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) is adopted to analyze the dynamic response for structures, especially for concrete dams.
 
 **Markdown generator**
