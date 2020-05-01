@@ -16,7 +16,7 @@ This is a callabration work with Prof. Chen Ji, Prof. Jinlai Hao and Wenze Deng.
 
 Ground motion simulation for engineering purposes
 ======
-I simulate the 3D seismic wave propagation using SPECFEM3D_Catesian. Near site effects are studied quantificationally such as
+I simulate the 3D seismic wave propagation using [SPECFEM3D_Catesian](https://github.com/geodynamics/specfem3d). Near site effects are studied quantificationally such as
 * Hanging wall effect
 * Topographic effect
 * Directivity effect
