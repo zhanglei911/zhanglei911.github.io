@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Let's stay foolish."
+title                    : ""
 title_separator          : "-"
 name                     : &name "Lei Zhang"
 description              : &description "Ph.D student"
