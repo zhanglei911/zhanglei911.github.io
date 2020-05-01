@@ -14,7 +14,7 @@ Education
 * Bachelor degree in Hydropower Engineering, Hohai University, 2014
 * Ph.D in Hydraulic Engineering, Tsinghua University, 2020 (expected)
   * Supervisor: Prof. Chu-Han Zhang
-  * Co-supervisors: Profs. Jin-Ting Wang & Yan-Jie Xu
+  * Co-supervisors: Prof. Jin-Ting Wang & Prof. Yan-Jie Xu
 * Visiting ph.D student, UCSB (Sep. 2017 - Dec. 2018)  
   * Department of Earth Science, University of California, Santa Barbara
   * Supervisor: Prof. Chen Ji
