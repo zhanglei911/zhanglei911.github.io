@@ -26,7 +26,7 @@ Rupture-to-structure simulation
 To numerically simulating the 3D seismic wave propagation from rupture to structures, a two-step method coupling the spectral element method (SEM) and the finite-element method (FEM) is proposed based on the domain reduction method to simultaneously simulate the seismic wave propagation in large-scale regions and analyze the dynamic behavior of structures in local sites. 
 * In the first step, the seismic wave propagation of the entire area, involving the source, propagation media, and local region of interest, is simulated using the SEM. 
 * In the second step, the dynamic analysis of structure-foundation system with local geological and topographical conditions is implemented using the FEM in a fine mesh based on the results in the first step. 
-* The proposed SEM-CFEM procedure can well consider the effects of local geological and topographical conditions on synthesized ground motions and can be applied to the rupture-to-structure simulations in earthquake engineering.
+* The proposed SEM-FEM procedure can well consider the effects of local geological and topographical conditions on synthesized ground motions and can be applied to the rupture-to-structure simulations in earthquake engineering.
 
 Dynamic analysis of structures
 ======
