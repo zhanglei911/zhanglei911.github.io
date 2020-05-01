@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stay hungry, stay foolish."
+title                    : "More haste, less speed."
 title_separator          : "-"
 name                     : &name "Lei Zhang"
 description              : &description "Ph.D student"
