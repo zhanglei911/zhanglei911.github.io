@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,14 +13,14 @@ Education
 ======
 * Bachelor degree in Hydropower Engineering, Hohai University, 2014
 * Ph.D in Hydraulic Engineering, Tsinghua University, 2020 (expected)
-  * Supervisor: Chu-Han Zhang
+  * Supervisor: Prof. Chu-Han Zhang
 
 Visiting experience
 ======
 * Sep. 2017 - Dec. 2018: visiting scholar 
   * Department of Earth Science, University of California, Santa Barbara
   * Topic included: Monitoring the Global Large Earthquakes with 3D SEM Green’s Functions
-  * Supervisor: Chen Ji
+  * Supervisor: Prof. Chen Ji
   
 Skills
 ======
@@ -29,7 +29,7 @@ Skills
   * adjoint simulations
   * global and regional scales 
 * The commercial FEM software ABAQUS
-  * dynamic analysis, especially for concrete dams. 
+  * dynamic analysis, especially for concrete dams
   * multi-filed simulation
   * nonlinear analysis
 * Programming languages
