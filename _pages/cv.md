@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Lei Zhang"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,12 +14,9 @@ Education
 * Bachelor degree in Hydropower Engineering, Hohai University, 2014
 * Ph.D in Hydraulic Engineering, Tsinghua University, 2020 (expected)
   * Supervisor: Prof. Chu-Han Zhang
-
-Visiting experience
-======
-* Sep. 2017 - Dec. 2018: visiting scholar 
+  * Co-supervisor: Profs. Jin-Ting Wang & Yan-Jie Xu
+* Visiting ph.D student, UCSB (Sep. 2017 - Dec. 2018)  
   * Department of Earth Science, University of California, Santa Barbara
-  * Topic included: Monitoring the Global Large Earthquakes with 3D SEM Green’s Functions
   * Supervisor: Prof. Chen Ji
   
 Skills
