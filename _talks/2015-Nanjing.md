@@ -2,7 +2,7 @@
 title: "Fusion of velocity structure and simulation of ground motions for dam safety evaluation"
 collection: talks
 type: "Talk"
-permalink: /talks/2015-talk
+permalink: /talks/2015-Nanjing
 venue: "Nanjing, China, ICOLD-2015"
 date: 2015-07-01
 location: "Hohai University"
