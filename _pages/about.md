@@ -20,7 +20,6 @@ I simulate the 3D seismic wave propagation using [SPECFEM3D_Catesian](https://gi
 * Hanging wall effect
 * Topographic effect
 * Directivity effect
-------
 
 Rupture-to-structure simulation
 ======
