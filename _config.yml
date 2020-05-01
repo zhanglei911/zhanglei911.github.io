@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lei Zhang"
   avatar           : "profile.png"
-  bio              : "I am interested in earthquake engineering and seismology. I simulate seismic waves in multi-scale models using numerical methods."
+  bio              : "I do research between earthquake engineering and seismology. I simulate seismic waves in multi-scale models using numerical methods such as SEM and FEM."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
