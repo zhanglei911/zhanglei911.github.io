@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor degree in Hydropower Engineering, Hohai University, 2014
+* Ph.D in Hydraulic Engineering, Tsinghua University, 2020 (expected)
 
 Work experience
 ======
@@ -29,12 +28,21 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Seismology computational tool SPECFEM3D
+  * forward simulations 
+  * adjoint simulations
+  * global and regional scales 
+* The commercial FEM software ABAQUS
+  * dynamic analysis, especially for concrete dams. 
+  * multi-filed simulation
+  * nonlinear analysis
+* Programming languages
+  * Matlab
+  * Fortran
+* Supercomputing experiences
+  * Tansuo100 in Tsinghua University
+  * SDSC Comet (XSEDE) in USA 
+  * Shen Wei in Nation Supercomputing Center in Wuxi, China
 
 Publications
 ======
