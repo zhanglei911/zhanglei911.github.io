@@ -30,7 +30,7 @@ To numerically simulating the 3D seismic wave propagation from rupture to struct
 
 Dynamic analysis of structures
 ======
-The large commercial FE software Abaqus is adopted to analyze the dynamic response for structures, especially for concrete dams.
+The large commercial FE software [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) is adopted to analyze the dynamic response for structures, especially for concrete dams.
 
 **Markdown generator**
 
