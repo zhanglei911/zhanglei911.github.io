@@ -10,26 +10,30 @@ redirect_from:
 
 I do research between earthquake engineering and seismology. I simulate seismic waves in multi-scale models based on numerical methods such as the spectral element method (SEM) and the finite element method (FEM). My research interests can be summed up as follows: 
 
-Ground motion simulation
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
 Rupture process of global large earthquakes
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+This is a callabration work with Prof. Chen Ji, Prof. Jinlai Hao and Wenze Deng. I calculate the global 3D Green's function databases based on adjoint simulations using [SPECFEM3D_Globe](https://geodynamics.org/cig/software/specfem3d_globe/). This databased is applied to study the rupture process of large earthquakes in the global scale such as the 2017 Mw8.2 Mexico earthquake, the 2018 Mw 7.9 Alaska earthquake, the 2008 Mw 7.9 Wenchuan earthquake.
+
+Ground motion simulation for engineering purposes
+======
+I simulate the 3D seismic wave propagation using SPECFEM3D_Catesian. Near site effects are studied quantificationally such as
+Hanging wall effect
+------
+Topographic effect
+------
+Directivity effect
+------
 
 Rupture-to-structure simulation
 ======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+To numerically simulating the 3D seismic wave propagation from rupture to structures, a two-step method coupling the spectral element method (SEM) and the finite-element method (FEM) is proposed based on the domain reduction method to simultaneously simulate the seismic wave propagation in large-scale regions and analyze the dynamic behavior of structures in local sites. 
+* In the first step, the seismic wave propagation of the entire area, involving the source, propagation media, and local region of interest, is simulated using the SEM. 
+* In the second step, the dynamic analysis of structure-foundation system with local geological and topographical conditions is implemented using the FEM in a fine mesh based on the results in the first step. 
+* The proposed SEM-CFEM procedure can well consider the effects of local geological and topographical conditions on synthesized ground motions and can be applied to the rupture-to-structure simulations in earthquake engineering.
 
 Dynamic analysis of structures
 ======
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+The large commercial FE software Abaqus is adopted to analyze the dynamic response for structures, especially for concrete dams.
 
 **Markdown generator**
 
