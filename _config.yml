@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Slow is fast"
+title                    : "Slow is fast, less is more."
 title_separator          : "-"
 name                     : &name "Slow is fast."
 description              : &description "Ph.D student"
