@@ -12,7 +12,7 @@ I do research between earthquake engineering and seismology. I simulate seismic 
 
 Rupture process of global large earthquakes
 ------
-This is a callabration work with Prof. Chen Ji, Prof. Jinlai Hao and Wenze Deng. I calculate the global 3D Green's function databases based on adjoint simulations using [SPECFEM3D_Globe](https://geodynamics.org/cig/software/specfem3d_globe/). This databased is applied to study the rupture process of large earthquakes in the global scale such as the 2017 Mw8.2 Mexico earthquake, the 2018 Mw 7.9 Alaska earthquake, the 2008 Mw 7.9 Wenchuan earthquake.
+This is a callabration work with Prof. Chen Ji, Prof. Jinlai Hao and Wenze Deng. I calculate the global 3D Green's function databases based on adjoint simulations using [SPECFEM3D_Globe](https://geodynamics.org/cig/software/specfem3d_globe/). This databased is applied to study the rupture process of large earthquakes in the global scale such as the 2017 Mw 8.2 Mexico earthquake, the 2018 Mw 7.9 Alaska earthquake, the 2008 Mw 7.9 Wenchuan earthquake.
 
 Ground motion simulation for engineering purposes
 ------
