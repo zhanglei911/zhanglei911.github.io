@@ -10,16 +10,6 @@ redirect_from:
 
 I am a Ph.D student from [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. I do research between earthquake engineering and seismology. I simulate seismic waves in global-, regional-, and multi-scale models based on numerical methods such as the spectral element method (SEM) and the finite element method (FEM). My research interests can be summed up as follows: 
 
-Rupture process of global large earthquakes
-------
-This is a callabration work with [Prof. Chen Ji](https://www.geol.ucsb.edu/people/chen-ji), [Prof. Jinlai Hao](http://sourcedb.igg.cas.cn/cn/zjrck/fyjy/201502/t20150210_4311909.html) and Wenze Deng. I calculate the global 3D Green's function databases based on adjoint simulations using [SPECFEM3D_Globe](https://geodynamics.org/cig/software/specfem3d_globe/). This databased is applied to study the rupture process of large earthquakes in the global scale such as the 2017 Mw 8.2 Mexico earthquake, the 2018 Mw 7.9 Alaska earthquake, the 2008 Mw 7.9 Wenchuan earthquake.
-
-Ground motion simulation for engineering purposes
-------
-I simulate the 3D seismic wave propagation using [SPECFEM3D_Catesian](https://github.com/geodynamics/specfem3d). Near site effects are studied quantificationally such as
-* Hanging wall effect
-* Topographic effect
-* Directivity effect
 
 Rupture-to-structure simulation
 ------
@@ -31,14 +21,11 @@ To numerically simulating the 3D seismic wave propagation from rupture to struct
 * In the second step, the dynamic analysis of structure-foundation system with local geological and topographical conditions is implemented using the FEM in a fine mesh based on the results in the first step. 
 * The proposed SEM-FEM procedure can well consider the effects of local geological and topographical conditions on synthesized ground motions and can be applied to the rupture-to-structure simulations in earthquake engineering.
 
-Dynamic analysis of structures
+For the dynamic analysis of structures, the large commercial FE software [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) is adopted to analyze the dynamic response for structures, especially for concrete dams.
+
+Rupture process of global large earthquakes
 ------
-The large commercial FE software [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) is adopted to analyze the dynamic response for structures, especially for concrete dams.
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+This is a callabration work with [Prof. Chen Ji](https://www.geol.ucsb.edu/people/chen-ji), [Prof. Jinlai Hao](http://sourcedb.igg.cas.cn/cn/zjrck/fyjy/201502/t20150210_4311909.html) and Wenze Deng. I calculate the global 3D Green's function databases based on adjoint simulations using [SPECFEM3D_Globe](https://geodynamics.org/cig/software/specfem3d_globe/). This databased is applied to study the rupture process of large earthquakes in the global scale such as the 2017 Mw 8.2 Mexico earthquake, the 2018 Mw 7.9 Alaska earthquake, the 2008 Mw 7.9 Wenchuan earthquake.
 
 Earthquake-induced disasters
 ------
@@ -46,6 +33,18 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
+
+Ground motion simulation for engineering purposes
+------
+I simulate the 3D seismic wave propagation using [SPECFEM3D_Catesian](https://github.com/geodynamics/specfem3d). Near site effects are studied quantificationally such as
+* Hanging wall effect
+* Topographic effect
+* Directivity effect
+
+**Markdown generator**
+
+I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
 For more info
 ------
