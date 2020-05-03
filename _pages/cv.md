@@ -13,11 +13,11 @@ Education
 ======
 * Bachelor degree in Hydropower Engineering, Hohai University, 2014
 * Ph.D in Hydraulic Engineering, Tsinghua University, 2020 (expected)
-  * Supervisor: Prof. Chu-Han Zhang
-  * Co-supervisors: Prof. Jin-Ting Wang & Prof. Yan-Jie Xu
-* Visiting ph.D student, UCSB (Sep. 2017 - Dec. 2018)  
+  * Supervisor: [Prof. Chu-Han Zhang](http://www.civil.tsinghua.edu.cn/he/essay/340/1497.html)
+  * Co-supervisors: [Prof. Jin-Ting Wang](http://www.civil.tsinghua.edu.cn/he/essay/340/856.html) & [Prof. Yan-Jie Xu](http://www.civil.tsinghua.edu.cn/he/essay/340/1470.html)
+* Visiting Ph.D student, UCSB (Sep. 2017 - Dec. 2018)  
   * Department of Earth Science, University of California, Santa Barbara
-  * Supervisor: Prof. Chen Ji
+  * Supervisor: [Prof. Chen Ji](https://www.geol.ucsb.edu/people/chen-ji)
   
 Skills
 ======
