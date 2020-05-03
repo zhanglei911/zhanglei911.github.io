@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I do research between earthquake engineering and seismology. I simulate seismic waves in multi-scale models based on numerical methods such as the spectral element method (SEM) and the finite element method (FEM). My research interests can be summed up as follows: 
+I am a Ph.D student from Tsinghua University, Beijing, China. I do research between earthquake engineering and seismology. I simulate seismic waves in multi-scale models based on numerical methods such as the spectral element method (SEM) and the finite element method (FEM). My research interests can be summed up as follows: 
 
 Rupture process of global large earthquakes
 ------
