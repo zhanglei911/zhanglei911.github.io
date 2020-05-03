@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student from Tsinghua University, Beijing, China. I do research between earthquake engineering and seismology. I simulate seismic waves in multi-scale models based on numerical methods such as the spectral element method (SEM) and the finite element method (FEM). My research interests can be summed up as follows: 
+I am a Ph.D student from [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. I do research between earthquake engineering and seismology. I simulate seismic waves in multi-scale models based on numerical methods such as the spectral element method (SEM) and the finite element method (FEM). My research interests can be summed up as follows: 
 
 Rupture process of global large earthquakes
 ------
-This is a callabration work with Prof. Chen Ji, Prof. Jinlai Hao and Wenze Deng. I calculate the global 3D Green's function databases based on adjoint simulations using [SPECFEM3D_Globe](https://geodynamics.org/cig/software/specfem3d_globe/). This databased is applied to study the rupture process of large earthquakes in the global scale such as the 2017 Mw 8.2 Mexico earthquake, the 2018 Mw 7.9 Alaska earthquake, the 2008 Mw 7.9 Wenchuan earthquake.
+This is a callabration work with [Prof. Chen Ji](https://www.geol.ucsb.edu/people/chen-ji), [Prof. Jinlai Hao](http://sourcedb.igg.cas.cn/cn/zjrck/fyjy/201502/t20150210_4311909.html) and Wenze Deng. I calculate the global 3D Green's function databases based on adjoint simulations using [SPECFEM3D_Globe](https://geodynamics.org/cig/software/specfem3d_globe/). This databased is applied to study the rupture process of large earthquakes in the global scale such as the 2017 Mw 8.2 Mexico earthquake, the 2018 Mw 7.9 Alaska earthquake, the 2008 Mw 7.9 Wenchuan earthquake.
 
 Ground motion simulation for engineering purposes
 ------
