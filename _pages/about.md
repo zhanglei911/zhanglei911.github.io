@@ -21,6 +21,8 @@ To numerically simulating the 3D seismic wave propagation from rupture to struct
 * In the second step, the dynamic analysis of structure-foundation system with local geological and topographical conditions is implemented using the FEM in a fine mesh based on the results in the first step. 
 * The proposed SEM-FEM procedure can well consider the effects of local geological and topographical conditions on synthesized ground motions and can be applied to the rupture-to-structure simulations in earthquake engineering.
 
+![DRM_simulation for a weak fault](/images/Figure120.png)
+
 For the dynamic analysis of structures, the large commercial FE software [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) is adopted to analyze the dynamic response for structures, especially for concrete dams.
 
 Rupture process of global large earthquakes
